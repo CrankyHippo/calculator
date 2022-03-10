@@ -16,7 +16,7 @@ A calculator project built with React.
 
 ## Installation
 
-1. `git clone url`
+1. `git clone https://github.com/CrankyHippo/calculator.git`
 
 2. `cd calculator`
 
